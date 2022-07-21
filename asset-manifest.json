@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactllive/static/css/main.31a5feae.css",
-    "main.js": "/reactllive/static/js/main.01e6af5d.js",
+    "main.css": "/reactllive/static/css/main.373fb497.css",
+    "main.js": "/reactllive/static/js/main.a9743502.js",
     "static/js/787.fad1ebcf.chunk.js": "/reactllive/static/js/787.fad1ebcf.chunk.js",
     "index.html": "/reactllive/index.html",
-    "main.31a5feae.css.map": "/reactllive/static/css/main.31a5feae.css.map",
-    "main.01e6af5d.js.map": "/reactllive/static/js/main.01e6af5d.js.map",
+    "main.373fb497.css.map": "/reactllive/static/css/main.373fb497.css.map",
+    "main.a9743502.js.map": "/reactllive/static/js/main.a9743502.js.map",
     "787.fad1ebcf.chunk.js.map": "/reactllive/static/js/787.fad1ebcf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31a5feae.css",
-    "static/js/main.01e6af5d.js"
+    "static/css/main.373fb497.css",
+    "static/js/main.a9743502.js"
   ]
 }
