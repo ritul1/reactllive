@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/reactllive/static/css/main.073c9b0a.css",
-    "main.js": "/reactllive/static/js/main.5fc619f1.js",
+    "main.css": "/reactllive/static/css/main.a1cada94.css",
+    "main.js": "/reactllive/static/js/main.90b5e08d.js",
     "static/js/787.fad1ebcf.chunk.js": "/reactllive/static/js/787.fad1ebcf.chunk.js",
-    "static/media/logo.svg": "/reactllive/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/reactllive/index.html",
-    "main.073c9b0a.css.map": "/reactllive/static/css/main.073c9b0a.css.map",
-    "main.5fc619f1.js.map": "/reactllive/static/js/main.5fc619f1.js.map",
+    "main.a1cada94.css.map": "/reactllive/static/css/main.a1cada94.css.map",
+    "main.90b5e08d.js.map": "/reactllive/static/js/main.90b5e08d.js.map",
     "787.fad1ebcf.chunk.js.map": "/reactllive/static/js/787.fad1ebcf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5fc619f1.js"
+    "static/css/main.a1cada94.css",
+    "static/js/main.90b5e08d.js"
   ]
 }
