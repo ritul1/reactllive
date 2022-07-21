@@ -8,7 +8,7 @@ function App() {
   return (
     <BrowserRouter>
     <Routes>
-      <Route path="/" element={<Product />} />
+      <Route path="/reactllive/" element={<Product />} />
     </Routes>
   </BrowserRouter>
 
